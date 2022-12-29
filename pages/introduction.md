@@ -3,17 +3,17 @@
 [prev](/pages/introduction.md) <-- [home](/README.md) --> [next](/pages/definitions-big-data-et-iot.md)
 
 -------
-Are you considering using ‘IOT’ (the Internet of Things) in your business ? If so, you may be interested in learning more about big data.
+Envisagez-vous d'utiliser l'IOT (Internet des objets) dans votre entreprise ? Si c'est le cas, vous serez peut-être intéressé d'en savoir plus sur le big data.
 
-Big data is a term used to describe the growing amount of data that’s being processed and analyzed. Devices are collecting more information than ever before and businesses are starting to take advantage of this wealth of data. 
+Le big data est un terme utilisé pour décrire la quantité croissante de données traitées et analysées. Les appareils recueillent plus d'informations que jamais auparavant et les entreprises commencent à tirer parti de cette richesse de données.
 
-While IOT is generating data, big data can be used for a number of purposes, including product development, marketing, and forecasting.
+Si l'IOT génère des données, le big data peut être utilisé à plusieurs fins, notamment pour le développement de produits, le marketing et les prévisions.
 
 <img src="../assets/iot-bigdata-intro.jpg" width="500" height="150" />
 
-To take full advantage of big data for IOT, you need to understand how it works and what tools are available to help you use it effectively. In this article, we’ll share use cases, real-world applications, methods and tools, issues and concerns associated with those two technologies.
+Pour tirer pleinement parti du big data pour l'IOT, vous devez comprendre comment il fonctionne et quels outils sont disponibles pour vous aider à l'utiliser efficacement. Dans cet article, nous partagerons les cas d'utilisation, les applications du monde réel, les méthodes et les outils, les problèmes et les préoccupations associés à ces deux technologies.
 
-Our presentation is divided into six key sections. We will first define [the terms IoT and Big Data](/pages/definitions-big-data-et-iot.md) before presenting [real-world applications](/pages/cas-dusages.md) of both. Then, we'll discuss [approaches and tools for managing Big Data and IoT](/pages/approches-et-outils.md) as well as [problems and challenges associated](/pages/enjeux-et-defis.md) with those two technologies. Finally, we will present [some applications of AI in Big Data and IoT](/pages/applications-de-ia.md) before introducing [perspectives of Big Data and IoT](/pages/perspectives-futures.md).
+Notre présentation est divisée en six sections clés. Nous commencerons par définir [les termes IoT et Big Data](/pages/definitions-big-data-et-iot.md) avant de présenter des [applications réelles](/pages/cas-dusages.md) de ces deux technologies. Ensuite, nous aborderons [les méthodes et les outils de gestion(/pages/approches-et-outils.md) du Big Data et de l'IoT, ainsi que [les problèmes et les défis](/pages/enjeux-et-defis.md) associés à ces deux technologies. Enfin, nous présenterons quelques [applications de l'IA](/pages/applications-de-ia.md)) dans le domaine du Big Data et de l'IoT avant d'introduire les [perspectives du Big Data et de l'IoT](/pages/perspectives-futures.md).
 
 -------
 [prev](/pages/introduction.md) <-- [home](/README.md) --> [next](/pages/definitions-big-data-et-iot.md)
