@@ -7,7 +7,7 @@ Big data is a term used to describe the growing amount of data that’s being pr
 
 While IOT is generating data, big data can be used for a number of purposes, including product development, marketing, and forecasting.
 
-![fig 0](../assets/iot-bigdata-intro.jpg)
+<img src="../assets/iot-bigdata-intro.jpg" width="500" height="150" />
 
 To take full advantage of big data for IOT, you need to understand how it works and what tools are available to help you use it effectively. In this article, we’ll share use cases, real-world applications, methods and tools, issues and concerns associated with those two technologies.
 
