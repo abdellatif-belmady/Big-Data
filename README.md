@@ -15,7 +15,7 @@ Durant ce projet, on va travailler sur le sujet Big Data et objets connectés.
 # Resumé
 
 # Plan
-- [Intoduction](/pages/introduction.md)
+- [Introduction](/pages/introduction.md)
 - [Définition du Big Data et de l'IoT](/pages/definitions-big-data-et-iot.md)
 - [Exemples concrets d'utilisation du Big Data et de l'IoT](/pages/cas-dusages.md)
 - [Approches et outils pour gérer le Big Data et l'IoT](/pages/approches-et-outils.md)
