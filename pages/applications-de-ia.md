@@ -13,6 +13,7 @@ La maintenance préventive est une autre application importante de l'IA dans le 
 L'IA peut également être utilisée pour optimiser les réseaux de transport et de distribution d'énergie. Les données recueillies par les objets connectés peuvent être utilisées pour planifier les itinéraires de transport les plus efficaces, ou encore pour réguler la production d'énergie éolienne et solaire. Cela permet d'optimiser les itinéraires de transport, de réduire les coûts de transport et d'améliorer la qualité des services de transport. L'IA peut également être utilisée pour réguler la production d'énergie renouvelable en fonction des besoins en énergie pour maximiser l'utilisation des ressources.
 
 Enfin, l'IA peut être utilisée pour améliorer la qualité de vie des individus. Les objets connectés peuvent collecter des données sur les habitudes de vie des individus, permettant ainsi une meilleure compréhension de leurs besoins. L'IA peut être utilisée pour développer des solutions personnalisées en matière de santé, de logement ou encore de consommation d'énergie. Cela permet de créer des environnements de vie plus confortables et plus sains pour les individus.
+
 -------
 [prev](/pages/enjeux-et-defis.md) <-- [home](/README.md) --> [next](/pages/perspectives-futures.md)
 -
