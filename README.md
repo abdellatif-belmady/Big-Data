@@ -9,7 +9,7 @@ Durant ce projet, on va travailler sur le sujet Big Data et objets connectés.
 - [Hamza HAJJINI](https://github.com/HAJJINIHamza/)
 - [Salma KHMASSI](https://github.com/KHSalma04/)
 - [Mohamed Lamine BAMBA](https://github.com/limto18/)
-- [Hamza Dribine](https://github.com//)
+- [Hamza Dribine](https://github.com/hamza-dri/)
 
 # Introduction
 
