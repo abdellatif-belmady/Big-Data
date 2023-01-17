@@ -13,6 +13,7 @@ Durant ce projet, on va travailler sur le sujet Big Data et objets connectés.
 # Introduction
 
 # Resumé
+Ce projet a pour but de présenter les concepts clés du Big Data et de l'IoT, ainsi que leur importance dans le monde actuel. Il a également exploré les différentes approches et outils utilisés pour gérer ces données massives, les enjeux et les défis liés à leur utilisation, les applications de l'IA dans le Big Data et l'IoT, et les perspectives futures de ces technologies.
 
 # Plan
 - [Introduction](/pages/introduction.md)
