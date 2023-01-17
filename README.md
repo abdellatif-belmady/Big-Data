@@ -9,6 +9,7 @@ Durant ce projet, on va travailler sur le sujet Big Data et objets connectés.
 - [Hamza HAJJINI](https://github.com/HAJJINIHamza/)
 - [Salma KHMASSI](https://github.com/KHSalma04/)
 - [Mohamed Lamine BAMBA](https://github.com/limto18/)
+- [Hamza Dribine](https://github.com//)
 
 # Introduction
 
@@ -23,8 +24,6 @@ Ce projet a pour but de présenter les concepts clés du Big Data et de l'IoT, a
 - [Enjeux et défis liés au Big Data et à l'IoT](/pages/enjeux-et-defis.md)
 - [Applications de l'IA dans le Big Data et l'IoT](/pages/applications-de-ia.md)
 - [Perspectives futures du Big Data et de l'IoT](/pages/perspectives-futures.md)
-    - [sub part 1]()
-    - [sub part 2]()
 - [Conclusion](/pages/conclusion.md)
 
 # Conclusion
