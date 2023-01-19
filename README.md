@@ -14,7 +14,7 @@ Durant ce projet, on va travailler sur le sujet Big Data et objets connectés.
 # Introduction
 
 # Resumé
-Ce projet a pour but de présenter les concepts clés du Big Data et de l'IoT, ainsi que leur importance dans le monde actuel. Il a également exploré les différentes approches et outils utilisés pour gérer ces données massives, les enjeux et les défis liés à leur utilisation, les applications de l'IA dans le Big Data et l'IoT, et les perspectives futures de ces technologies.
+Le projet présente une analyse complète des concepts clés du Big Data et de l'IoT, commençant par une définition détaillée des deux termes. Il donne des exemples concrets d'utilisations du Big Data et de l'IoT dans différents domaines tels que la santé, la sécurité, les finances et les transports. Il présente également les différentes approches et outils utilisés pour gérer les données massives générées par ces technologies, ainsi que les enjeux et défis liés à leur utilisation. Les applications de l'intelligence artificielle dans le Big Data et l'IoT sont également examinées, montrant comment elles peuvent optimiser les processus d'analyse et de prédiction. Enfin, le projet examine les perspectives futures de ces technologies, notamment les tendances et les impacts sur les entreprises et la société en général. Il souligne également l'importance de la prise en compte des enjeux éthiques et de la protection des données pour assurer un développement durable de ces technologies à l'avenir.
 
 # Plan
 - [Introduction](/pages/introduction.md)
