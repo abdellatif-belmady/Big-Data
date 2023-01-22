@@ -30,7 +30,8 @@ L’IOT et le Big Data jouent un rôle important pour les différents types de s
 ## Consommation énergétique optimisée : 
 Grâce à la collecte instantanée en temps réel des données liées à la consommation et aux pertes énergétiques, il serait possible d’identifier l’ensemble des comportements à optimiser et éviter le gaspillage des ressources. De plus, les consommateurs particuliers ou entreprises disposeront d’algorithmes leur permettant de prédire leur consommation énergétique dépendamment d’appareils ou machines utilisées, de réduire leurs dépenses et d’améliorer le confort logement. Ainsi, les comportements énergétiques futurs seraient plus sobres et répondent à la neutralité carbone et aux enjeux énergétiques les plus complexes. 
 
-## Métiers nouveaux : grâce à l’évolution remarquable de l’implémentation de l’IOT et de l’exploitation du Big Data, les métiers d’avenir seront focalisés sur tout ce qui est digitalisation et intelligence artificielle. Voici quelques exemples des métiers les plus incontournables dans le futur proche : Data Engineer, ingénieur DevOps/Cloud, architecte Big Data, Data Analyst, Data Scientist, Tech Lead Big Data…
+## Métiers nouveaux : 
+Grâce à l’évolution remarquable de l’implémentation de l’IOT et de l’exploitation du Big Data, les métiers d’avenir seront focalisés sur tout ce qui est digitalisation et intelligence artificielle. Voici quelques exemples des métiers les plus incontournables dans le futur proche : Data Engineer, ingénieur DevOps/Cloud, architecte Big Data, Data Analyst, Data Scientist, Tech Lead Big Data…
 -------
 [prev](/pages/applications-de-ia.md) <-- [home](/README.md) --> [next](/pages/conclusion.md)
 -
