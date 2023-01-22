@@ -16,10 +16,10 @@ Le projet présente une analyse complète des concepts clés du Big Data et de l
 
 # Plan
 - [Introduction](/pages/introduction.md)
-- [Définition du Big Data et de l'IoT](/pages/definitions-big-data-et-iot.md)
-- [Exemples concrets d'utilisation du Big Data et de l'IoT](/pages/cas-dusages.md)
-- [Approches et outils pour gérer le Big Data et l'IoT](/pages/approches-et-outils.md)
-- [Enjeux et défis liés au Big Data et à l'IoT](/pages/enjeux-et-defis.md)
-- [Applications de l'IA dans le Big Data et l'IoT](/pages/applications-de-ia.md)
-- [Perspectives futures du Big Data et de l'IoT](/pages/perspectives-futures.md)
+- [1. Définition du Big Data et de l'IoT](/pages/definitions-big-data-et-iot.md)
+- [2. Exemples concrets d'utilisation du Big Data et de l'IoT](/pages/cas-dusages.md)
+- [3. Approches et outils pour gérer le Big Data et l'IoT](/pages/approches-et-outils.md)
+- [4. Enjeux et défis liés au Big Data et à l'IoT](/pages/enjeux-et-defis.md)
+- [5. Applications de l'IA dans le Big Data et l'IoT](/pages/applications-de-ia.md)
+- [6. Perspectives futures du Big Data et de l'IoT](/pages/perspectives-futures.md)
 - [Conclusion](/pages/conclusion.md)
